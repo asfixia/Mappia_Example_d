@@ -7,4 +7,4 @@ A platform created with some of these maps: https://maps.csr.ufmg.br/editor/?que
 
 # Listing maps in this repository
 
-https://maps.csr.ufmg.br/editor/?lang=eng&map=&queryid=152&listRepository=Repository&storeurl=https://github.com/asfixia/Mappia_Example_d/
+https://maps.csr.ufmg.br/calculator/?lang=eng&map=&queryid=152&listRepository=Repository&storeurl=https://github.com/asfixia/Mappia_Example_d/
